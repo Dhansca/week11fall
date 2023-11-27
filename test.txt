@@ -1,3 +1,0 @@
-This is to check branching in GIT
-
-Hope we get the concept of merging
