@@ -1,1 +1,3 @@
 Hello Students
+
+We are in GIT class. Hope you are able to follow me
